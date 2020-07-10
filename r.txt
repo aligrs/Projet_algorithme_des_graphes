@@ -1,0 +1,146 @@
+﻿
+0;43;4;"piste myrtilles";2
+0;68;8;"piste saludes";3
+1;11;11;"piste vallons";2
+1;12;8;"piste vallons";2
+1;46;2;"piste celvan";1
+1;0;9;"TSD PROREL";0
+1;4;8;"TK BOIS DES COQS 1-2";0
+1;3;9;"piste celvan";1
+2;3;11;"piste aiguillette";3
+2;68;12;"piste eduits";3
+3;2;9;"TS AIGUILLETTE";0
+3;48;9;"piste celvan";1
+4;5;7;"piste bois des coqs" ;3
+4;67;8;"piste petite alpe";3
+4;49;2;"piste vallons";2
+5;6;2;"TK GRAND ALPE";0
+5;7;3;"TK REPLAT";0
+5;1;4;"piste vallons";2
+5;47;2;"piste combes";2
+5;1;5;"piste bois des coqs";3
+6;5;3;"piste grand alpe";1
+7;5;4;"piste grand serre";1
+7;5;5;"piste grand alpe";1
+8;47;2;"piste combes";2
+8;5;2;"piste eftanis";2
+8;9;6;"TSD GRAND SERRE";0
+9;49;4;"piste vallons";2
+9;14;3;"piste eftanis";2
+9;50;12;"piste mur chevalier";4
+9;13;9;"piste draye";3
+10;51;4;"piste foret";2
+10;50;1;"piste combes";2
+10;21;5;"piste g�n�pi";2
+10;8;7;"piste eftanis";2
+11;37;4;"piste briance";1
+11;10;8;"TSD COMBES";0
+12;62;2;"piste chene";1
+12;38;14;"piste luc alphand";4
+12;13;12;"TSD OREE DU BOIS";0
+12;9;10;"TPH SERRE CHEVALIER";0
+13;12;12;"piste pylones";4
+13;66;7;"piste draye";3
+13;47;4;"piste 3croix";1
+13;51;2;"piste foret";2
+14;21;3;"piste fangeas";2
+14;55;5;"piste rocher de l'enfer";3
+14;10;2;"piste eftanis";2
+14;17;8;"piste echaillon";3
+15;12;4;"piste lievre blanc";1
+15;14;7;"TSD FORET";0
+15;64;5;"piste marteau";2
+15;62;3;"piste route aravet";1
+16;14;7;"TS COTE CHEVALIER";0
+16;61;3;"piste traverse";2
+17;16;2;"piste sellettes";2
+17;18;8;"TSD CLOT GAUTHIER";0
+17;23;4;"piste sellettes";2
+18;56;3;"clot gauthier";3
+18;58;2;"piste goulet ";2
+19;55;13;"piste isolee ";4
+19;20;11;"piste ailefroide ";4
+19;20;12;"piste creux du loup";4
+20;57;4;"piste super draye";4
+20;17;6;"piste clot gauthier";3
+20;19;7;"TK EYCHAUDA";0
+21;22;3;"piste fangeas";2
+21;23;4;"piste alpage";2
+22;21;3;"TK ALPAGE";0
+22;52;2;"piste marteau";2
+23;17;3;"piste sellettes";2
+23;24;4;"piste bois";3
+23;40;15;"piste casse du boeuf";4
+24;63;5;"piste lacets";3
+24;23;6;"TK PRE DU BOIS";0
+25;26;6;"TK CRETES";0
+25;61;1;"piste goulet";2
+26;31;2;"piste cabane";2
+26;17;5;"piste sellettes";2
+27;25;1;"piste goulet";2
+28;42;9;"piste bez";3
+28;27;4;"TS FREJUS";0
+29;30;6;"TK BARRES";0
+29;61;3;"piste goulet";2
+30;31;1;"piste barres";1
+31;26;2;"piste cabane";2
+31;27;4;"piste goulet";2
+31;29;3;"piste barres";1
+31;30;1;"piste barres";1
+31;32;8;"TK CLOT";0
+31;33;3;"TK MEA";4
+32;31;2;"piste chameant";1
+33;31;5;"piste pre jeanne";2
+33;32;2;"piste chameant";1
+34;63;3;"piste bez";3
+34;35;10;"TSD VALLONS";0
+35;60;11;"piste cucumelle";3
+35;34;12;"piste cucumelle";3
+36;12;4;"melezes";2
+37;48;3;"piste celvan";1
+37;36;5;"TK CHAMPCELLA";0
+38;12;7;"TC RATIER";0
+38;12;4;"TSD BLETONET";0
+39;15;7;"TC ARAVET";0
+40;23;12;"TSD CASSE DU BOEUF";0
+41;25;11;"TC FREJUS";0
+42;28;9;"DMC PONTILLAS";0
+43;67;2;"piste myrtilles";2
+44;43;3;"piste myrtilles";2
+44;43;9;"piste cabane du berger";4
+45;3;6;"piste eduits";3
+46;3;7;"piste celvan";1
+46;45;3;"piste eduits";3
+47;66;1;"piste 3croix";1
+47;5;2;"piste eftanis";2
+48;38;3;"piste briance";1
+49;5;5;"piste vallons";2
+50;8;3;"piste combes";2
+51;22;3;"piste foret";2
+52;53;2;"piste marteau";2
+52;54;3;"piste marteau";2
+52;54;4;"piste stade";3
+53;36;3;"piste melezes";2
+54;15;3;"piste marteau";2
+55;17;6;"piste rocher de l'enfer";3
+56;57;9;"piste super draye";4
+56;20;3;"piste clot gauthier";3
+57;17;5;"piste clot gauthier";3
+58;31;3;"piste clot goulet";2
+58;26;3;"piste clot sellettes";2
+59;28;3;"piste prairies";3
+59;40;8;"piste route frejus";1
+60;59;1;"piste route frejus";1
+60;34;2;"piste clot goulet";2
+61;24;3;"piste bois";3
+61;60;3;"piste clot goulet";2
+62;39;6;"piste route aravet";1
+63;28;3;"piste bez";3
+64;39;4;"piste marteau";2
+64;40;9;"casse du beouf";4
+65;13;7;"piste stade";3
+65;13;6;"piste draye";3
+66;65;3;"piste draye";3
+67;1;4;"piste petit alpe";3
+68;1;4;"piste myrtilles";2
+68;45;6;"piste eduits";3
